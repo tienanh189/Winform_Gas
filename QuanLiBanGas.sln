@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLiBanGas", "QuanLiBanGas\QuanLiBanGas.csproj", "{34000182-FA88-4700-B9CB-6B8E46AE4D82}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gas", "Gas\Gas.vdproj", "{563092FD-84DD-4781-847F-9E54C4EA7595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34000182-FA88-4700-B9CB-6B8E46AE4D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34000182-FA88-4700-B9CB-6B8E46AE4D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34000182-FA88-4700-B9CB-6B8E46AE4D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34000182-FA88-4700-B9CB-6B8E46AE4D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563092FD-84DD-4781-847F-9E54C4EA7595}.Debug|Any CPU.ActiveCfg = Debug
+		{563092FD-84DD-4781-847F-9E54C4EA7595}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC5B6EE-493D-49E3-8951-F2303CCCBCFA}
+	EndGlobalSection
+EndGlobal
